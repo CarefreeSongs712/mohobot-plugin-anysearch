@@ -1,0 +1,10 @@
+name: anysearch
+author: CarefreeSongs712
+display_name: 搜索
+version: 1.0.0
+description: AnySearch 网页搜索工具
+repo: https://github.com/CarefreeSongs712/mohobot-plugin-anysearch
+license: MIT
+api_version: 1
+mohobot_version: ">=0.1.0"
+tags: [search]
